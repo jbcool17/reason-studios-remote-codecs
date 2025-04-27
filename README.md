@@ -10,7 +10,7 @@
 
 [SHIK](https://shik.tech/)
 
-Remote Maps availible for: 
+Remote Maps available for: 
 - Combinator
 
 ## Installation

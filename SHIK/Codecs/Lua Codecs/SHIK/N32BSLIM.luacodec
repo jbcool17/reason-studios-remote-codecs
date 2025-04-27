@@ -1,0 +1,18 @@
+version = { 1, 0, 3 }
+
+function remote_supported_control_surfaces()
+	local surfaces =
+	{
+		{
+			manufacturer    = "SHIK",
+			model           = "N32BSLIM",
+			source          = "N32BSLIM.lua",
+			picture         = "N32BSLIM.png",
+			in_ports        = {{ description = "MIDI In"                   }},
+			out_ports       = {{ description = "MIDI Out", optional = true }},
+		    setup_info_text = "Used for the N32BSLIM knobs.",
+		    has_keyboard    = false
+		}
+	}
+	return surfaces
+end

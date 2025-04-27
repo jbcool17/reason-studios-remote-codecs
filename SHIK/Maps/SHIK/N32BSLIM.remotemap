@@ -1,0 +1,44 @@
+Propellerhead Remote Mapping File					
+File Format Version	1.0.0				
+Control Surface Manufacturer	SHIK				
+Control Surface Model	N32BSLIM
+Map Version	1.0.3				
+
+//This is a remote map template for the Shik N32BSlim Midi Controller
+
+
+Scope	Propellerheads	Combinator			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+// Line 36
+Map	knob1		Rotary 1          
+Map	knob2		Rotary 2		
+Map	knob3		Rotary 3		
+Map	knob4		Rotary 4	
+Map	knob5		Rotary 5		
+Map	knob6		Rotary 6		
+Map	knob7		Rotary 7		
+Map	knob8		Rotary 8		
+Map	knob9		Rotary 9		
+Map	knob10		Rotary 10		
+Map	knob11		Rotary 11		
+Map	knob12		Rotary 12		
+Map	knob13		Rotary 13		
+Map	knob14		Rotary 14				
+Map	knob15		Rotary 15				
+Map	knob16		Rotary 16				
+Map	knob17		Rotary 17
+Map	knob18		Rotary 18
+Map	knob19		Rotary 19
+Map	knob20		Rotary 20
+Map	knob21		Rotary 21
+Map	knob22		Rotary 22
+Map	knob23		Rotary 23
+Map	knob24		Rotary 24
+Map	knob25		Rotary 25
+Map	knob26		Rotary 26
+Map	knob27		Rotary 27
+Map	knob28		Rotary 28
+Map	knob29		Rotary 29
+Map	knob30		Rotary 30
+Map	knob31		Rotary 31
+Map	knob32		Rotary 32

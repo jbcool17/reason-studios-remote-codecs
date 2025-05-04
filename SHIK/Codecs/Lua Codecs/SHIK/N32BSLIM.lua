@@ -1,7 +1,6 @@
 -- Reason ReMote Codec for SHIK N32BSLIM
 -- Version 1.0.3
 
------------------------------------------------ Global Properties -------------------------------------------------
 function remote_init(manufacturer, model)
     local items = {}
     for i = 1, 32 do

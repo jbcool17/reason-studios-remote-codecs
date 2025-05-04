@@ -9,7 +9,7 @@ Map Version	1.0.3
 
 Scope	Propellerheads	Combinator			
 //	Control Surface Item	Key	Remotable Item	Scale	Mode
-// Line 36
+
 Map	knob1		Rotary 1          
 Map	knob2		Rotary 2		
 Map	knob3		Rotary 3		
@@ -42,3 +42,65 @@ Map	knob29		Rotary 29
 Map	knob30		Rotary 30
 Map	knob31		Rotary 31
 Map	knob32		Rotary 32
+
+Scope	Moog	vst3.ABCDEF019182FAEB4D6F6F674D617269.Mariana				
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	knob1		Synth 1 Low Pass Cutoff
+Map	knob2		Synth 1 Low Pass Resonance
+Map	knob3		Synth 1 Low Pass EG Amount
+Map	knob4		Synth 1 Osc 1 Level
+
+Map	knob5		Synth 1 Osc 2 Level
+Map	knob6		Synth 1 Noise Level
+Map	knob7		Synth 1 Sub Level
+Map	knob8		Synth 1 Amp Attack
+
+Map	knob9		Synth 1 Amp Decay
+Map	knob10		Synth 1 Amp Sustain
+Map	knob11		Synth 1 Amp Release
+Map	knob12		Synth 1 Filter Attack
+
+Map	knob13		Synth 1 Filter Decay
+Map	knob14		Synth 1 Filter Sustain
+Map	knob15		Synth 1 Filter Release
+Map	knob16		Synth 1 High Pass Cutoff
+
+Map	knob17		Synth 2 Low Pass Cutoff
+Map	knob18		Synth 2 Low Pass Resonance
+Map	knob19		Synth 2 Low Pass EG Amount
+Map	knob20		Synth 2 Osc 1 Level
+
+Map	knob21		Synth 2 Osc 2 Level
+Map	knob22		Synth 2 Noise Level
+Map	knob23		Synth 2 Sub Level
+Map	knob24		Synth 2 Amp Attack
+
+Map	knob25		Synth 2 Amp Decay
+Map	knob26		Synth 2 Amp Sustain
+Map	knob27		Synth 2 Amp Release
+Map	knob28		Synth 2 Filter Attack
+
+Map	knob29		Synth 2 Filter Decay
+Map	knob30		Synth 2 Filter Sustain
+Map	knob31		Synth 2 Filter Release
+Map	knob32		Synth 2 High Pass Cutoff
+
+Scope	Propellerhead Software	se.propellerheads.Parsec
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	knob1		A Mod1 X
+Map	knob2		A Mod1 Y
+Map	knob3		A Mod2 X
+Map	knob4		A Mod2 Y
+Map	knob5		A Phase Sync
+Map	knob6		A Cutoff Kbd
+Map	knob7		A Cutoff Freq
+Map	knob8		A Cutoff Slope
+Map	knob9		A Semi
+Map	knob10		A Oct
+Map	knob11		A Tune
+Map	knob12		A Pitch Kbd
+Map	knob13		A Gen Select
+Map	knob14		A Gen X
+// parsec WORK IN PROGRESS

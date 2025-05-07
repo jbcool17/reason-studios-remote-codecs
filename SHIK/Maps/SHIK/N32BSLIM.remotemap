@@ -9,7 +9,7 @@ Map Version	1.0.3
 
 Scope	Propellerheads	Combinator			
 //	Control Surface Item	Key	Remotable Item	Scale	Mode
-// Line 36
+
 Map	knob1		Rotary 1          
 Map	knob2		Rotary 2		
 Map	knob3		Rotary 3		
@@ -42,3 +42,98 @@ Map	knob29		Rotary 29
 Map	knob30		Rotary 30
 Map	knob31		Rotary 31
 Map	knob32		Rotary 32
+
+Scope	Moog	vst3.ABCDEF019182FAEB4D6F6F674D617269.Mariana				
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// SYNTH 1
+Map	knob1		Synth 1 Low Pass Cutoff
+Map	knob5		Synth 1 Low Pass Resonance
+Map	knob9		Synth 1 Low Pass EG Amount
+Map	knob2		Synth 1 High Pass Cutoff
+
+// SYNTH 1 Levels
+Map	knob13		Synth 1 Osc 1 Level
+Map	knob14		Synth 1 Osc 2 Level
+Map	knob15		Synth 1 Noise Level
+Map	knob16		Synth 1 Sub Level
+
+Map	knob17		Synth 1 Amp Attack
+Map	knob21		Synth 1 Amp Decay
+Map	knob25		Synth 1 Amp Sustain
+Map	knob29		Synth 1 Amp Release
+
+Map	knob18		Synth 1 Filter Attack
+Map	knob22		Synth 1 Filter Decay
+Map	knob26		Synth 1 Filter Sustain
+Map	knob30		Synth 1 Filter Release
+
+// SYNTH 2
+Map	knob3		Synth 2 Low Pass Cutoff
+Map	knob7		Synth 2 Low Pass Resonance
+Map	knob11		Synth 2 Low Pass EG Amount
+Map	knob4		Synth 2 High Pass Cutoff
+
+// SYNTH 2 Levels
+Map	knob6		Synth 2 Osc 1 Level
+Map	knob10		Synth 2 Osc 2 Level
+Map	knob8		Synth 2 Noise Level
+Map	knob12		Synth 2 Sub Level
+
+Map	knob19		Synth 2 Amp Attack
+Map	knob23		Synth 2 Amp Decay
+Map	knob27		Synth 2 Amp Sustain
+Map	knob31		Synth 2 Amp Release
+
+Map	knob20		Synth 2 Filter Attack
+Map	knob24		Synth 2 Filter Decay
+Map	knob28		Synth 2 Filter Sustain
+Map	knob32		Synth 2 Filter Release
+
+
+Scope	Propellerhead Software	se.propellerheads.Parsec
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// A Engine
+Map	knob1		A Mod1 X
+Map	knob5		A Mod1 Y
+Map	knob9		A Mod2 X
+Map	knob13		A Mod2 Y
+
+Map	knob2		A Oct
+Map	knob6		A Semi
+Map	knob10		A Tune
+Map	knob14		A Pitch Kbd
+
+Map	knob3		A Phase Sync
+Map	knob7		A Cutoff Slope
+Map	knob11		A Cutoff Freq
+Map	knob15		A Cutoff Kbd
+
+Map	knob4		A Gen Select
+Map	knob8		A Gen X
+
+// B Engine
+Map	knob17		B Mod1 X
+Map	knob21		B Mod1 Y
+Map	knob25		B Mod2 X
+Map	knob29		B Mod2 Y
+
+Map	knob18		B Oct
+Map	knob22		B Semi
+Map	knob26		B Tune
+Map	knob30		B Pitch Kbd
+
+Map	knob19		B Phase Sync
+Map	knob23		B Cutoff Slope
+Map	knob27		B Cutoff Freq
+Map	knob31		B Cutoff Kbd
+
+Map	knob28		B Gen Select
+Map	knob32		B Gen X
+
+// ADSR
+Map	knob12		Amp Attack
+Map	knob16		Amp Decay
+Map	knob20		Amp Sustain
+Map	knob24		Amp Release

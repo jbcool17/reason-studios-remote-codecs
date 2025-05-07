@@ -94,7 +94,7 @@ Map	knob32		Synth 2 Filter Release
 Scope	Propellerhead Software	se.propellerheads.Parsec
 //	Control Surface Item	Key	Remotable Item	Scale	Mode
 
-// A1
+// A Engine
 Map	knob1		A Mod1 X
 Map	knob5		A Mod1 Y
 Map	knob9		A Mod2 X
@@ -113,7 +113,7 @@ Map	knob15		A Cutoff Kbd
 Map	knob4		A Gen Select
 Map	knob8		A Gen X
 
-// B
+// B Engine
 Map	knob17		B Mod1 X
 Map	knob21		B Mod1 Y
 Map	knob25		B Mod2 X

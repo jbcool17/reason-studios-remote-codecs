@@ -12,6 +12,8 @@
 
 Remote Maps available for: 
 - Combinator
+- Mariana(MOOG)
+- Parsec 2
 
 ## Installation
 
